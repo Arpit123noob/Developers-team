@@ -12,9 +12,9 @@ A platefrom where we can connect with our alumni's and do conversions live time.
 
 - [@Mukesh Kumar ](https://www.github.com/octokatherine)
 
-- [@Arpit Mishra ](https://www.github.com/octokatherine)
+- [@Arpit Mishra ](https://github.com/Arpit123noob)
 
-- [@Bhushan ](https://www.github.com/octokatherine)
+- [@Bhushan ](https://github.com/vashisth22)
 
 
 
