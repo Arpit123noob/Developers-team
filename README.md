@@ -8,7 +8,7 @@ A platefrom where we can connect with our alumni's and do conversions live time.
 
 ## Devlopers 
 
-- [@Shruti Rajput](https://www.github.com/octokatherine)
+- [@Shruti Rajput](https://github.com/ShrutiRajput)
 
 - [@Mukesh Kumar ](https://www.github.com/octokatherine)
 
