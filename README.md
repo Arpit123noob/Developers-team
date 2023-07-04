@@ -1,9 +1,8 @@
 
 # WeConnect DUCS
-I think every fresher face a problem when he/she try to connect with their alumin's....
-So me and my friends come up with the idea of connecting Alumni's and their institue students directly.That's why we came up with "WeConnect".
+Connecting with alumni can be challenging for freshers who are seeking guidance and mentorship. To address this issue, we developed "WeConnect," a platform that directly connects students with their alumni.
 
-A platefrom where we can connect with our alumni's and do conversions live time...Later we introduced Posts options so that we can share the experiences and life lessons to everyone through Posts
+WeConnect provides a live conversation feature that enables students to interact with alumni in real time. Recognizing the value of shared experiences, we also introduced a "Posts" feature where individuals can share their life lessons and experiences with the broader community. This fosters a culture of learning and growth, benefiting everyone involved.
 
 
 ## Devlopers 
